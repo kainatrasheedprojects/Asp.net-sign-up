@@ -67,9 +67,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="default.html" />
     <Content Include="login.aspx" />
-    <Content Include="Stock\burger-img.jpg" />
-    <Content Include="Stock\pink-img.jfif" />
+    <Content Include="Stock\facebookicon.png" />
+    <Content Include="Stock\googleplus.png" />
+    <Content Include="Stock\peachi.png" />
+    <Content Include="Stock\peachpic.jpg" />
+    <Content Include="Style.css" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
